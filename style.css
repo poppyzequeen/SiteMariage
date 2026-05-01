@@ -52,7 +52,7 @@ header {
 }
 
 h1 {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Breathing', serif;
   font-size: 2.5em;
   color: var(--rose-fonce);
   margin-bottom: 0;
@@ -96,7 +96,7 @@ section.light-green-bg {
 }
 
 h2 {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Libre Baskerville', serif;
   color: var(--vert-fonce);
   margin-top: 0;
 }
