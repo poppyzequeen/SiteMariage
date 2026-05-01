@@ -1,12 +1,14 @@
 :root {
-  --rose-pale: #ffe5ec;
-  --rose: #f7cad0;
-  --rose-fonce: #e29578;
-  --vert-pale: #e9f5e1;
-  --vert: #b7e4c7;
-  --vert-fonce: #52b788;
+  --rose-pale: #ffeff4;
+  --rose: #f8d6da;
+  --rose-fonce: #c26b7a;
+  --vert-pale: #90b494;
+  --vert-fonce: #254441;
+  --marron: #573311;
+  --marron-fonce: #4b2e2a;
   --gris: #444;
-  --white: #fff;
+  --white: #f4ede6;
+  --corail: #fdaca3;
 }
 
 body {
