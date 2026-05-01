@@ -22,7 +22,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: linear-gradient(90deg, var(--rose), var(--vert));
+  background: linear-gradient(90deg, var(--marron), var(--vert));
   padding: 2em 1em 1em;
   border-bottom-left-radius: 40px;
   border-bottom-right-radius: 40px;
