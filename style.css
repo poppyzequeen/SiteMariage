@@ -11,6 +11,15 @@
   --corail: #fdaca3;
 }
 
+@font-face {
+  font-family: "Breathing";
+  src:
+    local("Breathing"),
+    url("trickster-COLRv1.otf") format("opentype") tech(color-COLRv1),
+    url("trickster-outline.otf") format("opentype"),
+    url("trickster-outline.woff2") format("woff2");
+}
+
 body {
   margin: 0;
   font-family: 'Quicksand', Arial, sans-serif;
